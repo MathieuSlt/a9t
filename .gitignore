@@ -1,0 +1,14 @@
+node_modules
+.next
+dist
+.venv
+venv
+__pycache__
+*.egg-info
+
+# Secrets at any depth (only *.example files are committed)
+**/.env
+**/.env.*
+!**/.env.example
+
+.DS_Store

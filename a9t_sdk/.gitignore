@@ -1,0 +1,7 @@
+typescript/dist
+typescript/node_modules
+
+python/.venv
+python/venv
+**/__pycache__/
+python/dist
